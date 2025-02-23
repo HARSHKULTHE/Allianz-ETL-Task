@@ -23,5 +23,5 @@ This project extracts, transforms, and loads NHL team statistics from HTML into 
    pytest test_hockey_etl.py -v
 
 5.Dependencies:
-   
+   ```sh
    See requirements.txt for all dependencies
