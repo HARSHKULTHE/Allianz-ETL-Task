@@ -12,3 +12,8 @@ This project extracts, transforms, and loads NHL team statistics from HTML into 
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
+   
+Usage
+Run the main script:
+```sh
+python JsontoExcel.py
