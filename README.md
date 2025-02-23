@@ -13,7 +13,14 @@ This project extracts, transforms, and loads NHL team statistics from HTML into 
    ```sh
    pip install -r requirements.txt
    
-Usage
-Run the main script:
+
+3. Run the main script:
 ```sh
 python JsontoExcel.py
+
+4. Running Tests
+```sh
+pytest test_hockey_etl.py -v
+
+5.Dependencies
+See requirements.txt for all dependencies.
