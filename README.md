@@ -9,3 +9,6 @@ This project extracts, transforms, and loads NHL team statistics from HTML into 
    ```sh
    git clone https://github.com/HARSHKULTHE/Allianz-ETL-Task.git
    cd Allianz-ETL-Task
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
